@@ -13,6 +13,6 @@ Seeing https://webcache.googleusercontent.com/search?q=cache:p5PwLgIdiqMJ:https:
 
 I somehow thought the image was from 2021? So I thought to write a scraper for the site as the web UI does not allow jumping to a particular time. 
 
-![Truth](bar.jpg)
+![Truth](bar.png)
 
 Well I should read carefully. 
